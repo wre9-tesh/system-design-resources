@@ -92,4 +92,21 @@ Since these requirements are (largely) mutually-exclusive, you see a diverse set
 
 ------------------------------
 
+###MISC
+Top K Problem (Heavy Hitters)
+Uber System Design
+TinyUrL
+Design eCommerce Application (Amazon / Flipkart)
+Distributed Caching
+Designing multilevel Parking lot / Parking lot design
+Designing GPS System
+BookMyShow (movie Ticket booking)
+Design TikTok
+How Google searches one document among Billions of documents quickly
+Design messaging/chat service Whatsapp
+Design Netflix
+Design Twitter
+Design Instagram
+System design for News Feed
+
 #### Video lessons: https://interviewready.io/
