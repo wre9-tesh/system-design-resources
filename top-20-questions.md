@@ -74,6 +74,21 @@ Since these requirements are (largely) mutually-exclusive, you see a diverse set
 19. [Design an on-demand streaming app like Netflix](https://interviewready.io/learn/system-design-course/netflix_movie_onboarding/video_processing)
 
 20. Design a live-streaming social media app like Twitch
+21. Publisher Subscriber
+22. Event Driven Architectures
+23. Hexagonal Architectures
+24. Microservices
+25. Load Balancing
+26. Alerts and Anomaly Detection
+27. Distributed Logging
+28. Metrics and Text Search Engine
+29. Single Point of Failure
+30. Location Based Services
+31. Batch Processing
+32. Real Time Stream Processing
+33. Caching
+34. Distributed concensus
+35. Authorization
 
 ------------------------------
 
